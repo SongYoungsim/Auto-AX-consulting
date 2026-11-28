@@ -47,6 +47,7 @@ python -m http.server 4173
 
 ## 관련 문서
 
+- [서비스 기획서 (`PLAN.md`)](PLAN.md) — 기획 배경, 타겟 페르소나, 4단계 IA 및 ROI 산출 기획
 - [사용자 매뉴얼 (`USER_MANUAL.md`)](USER_MANUAL.md) — 컨설턴트용 탭별 상세 사용법 및 실무 팁
 - [기술 명세서 (`TECH_SPEC.md`)](TECH_SPEC.md) — 상태 관리, Mermaid ERD, 모듈 인터페이스 및 ROI 계산 공식
 - [무료 배포 가이드 (`DEPLOY.md`)](DEPLOY.md) — GitHub Pages, Cloudflare Pages, Vercel, Netlify 배포 방법
